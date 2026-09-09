@@ -144,14 +144,15 @@ The visualization therefore represents model predictions, rather than guaranteed
 
 Future versions of the project can extend the current document understanding pipeline with:
 
--Question-answer extraction
--Question-to-answer matching
--Natural-language document queries
--Improved classification accuracy
--Better handling of complex document layouts
--More document categories
--Improved inference speed
+ - Question-answer extraction
+ - Question-to-answer matching
+ - Natural-language document queries
+ - Improved classification accuracy
+ - Better handling of complex document layouts
+ - More document categories
+ - Improved inference speed
 
+---
 
 ## 🤝 Acknowledgements
 
